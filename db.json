@@ -1,48 +1,46 @@
-
 {
-  "towers":
-[
- {
-"id": "e6bb3bc0-1f01-11ea-82e9-3785e14919c1",
-"title": "One",
-"value": 698,
-"minValue": 0,
-"maxValue": 2000,
-},
-{
-"id": "e6bb62d0-1f01-11ea-82e9-3785e14919c1",
-"title": "Black",
-"value": 6,
-"minValue": 300,
-"maxValue": 2000,
-},
-{
-"id": "e6bb62d1-1f01-11ea-82e9-3785e14919c1",
-"title": "Cordana",
-"value": 2222,
-"minValue": 1111,
-"maxValue": 3333
-},
-{
-"id": "e6bb62d2-1f01-11ea-82e9-3785e14919c1",
-"title": "A",
-"value": 2698,
-"minValue": 130,
-"maxValue": 3214,
-},
-{
-"id": "e6bb62d3-1f01-11ea-82e9-3785e14919c1",
-"title": "Lisa",
-"value": 1200,
-"minValue": 640,
-"maxValue": 2000,
-},
-{
-"id": "e6bb62d4-1f01-11ea-82e9-3785e14919c1",
-"title": "Red",
-"value": 1433,
-"minValue": 600,
-"maxValue": 2000
-  }
-]
+  "towers": [
+    {
+      "id": "e6bb3bc0-1f01-11ea-82e9-3785e14919c1",
+      "title": "One",
+      "value": 698,
+      "minValue": 0,
+      "maxValue": 2000
+    },
+    {
+      "id": "e6bb62d0-1f01-11ea-82e9-3785e14919c1",
+      "title": "Black",
+      "value": 6,
+      "minValue": 300,
+      "maxValue": 2000
+    },
+    {
+      "id": "e6bb62d1-1f01-11ea-82e9-3785e14919c1",
+      "title": "Cordana",
+      "value": 2222,
+      "minValue": 1111,
+      "maxValue": 3333
+    },
+    {
+      "id": "e6bb62d2-1f01-11ea-82e9-3785e14919c1",
+      "title": "A",
+      "value": 2698,
+      "minValue": 130,
+      "maxValue": 3214
+    },
+    {
+      "id": "e6bb62d3-1f01-11ea-82e9-3785e14919c1",
+      "title": "Lisa",
+      "value": 1200,
+      "minValue": 640,
+      "maxValue": 2000
+    },
+    {
+      "id": "e6bb62d4-1f01-11ea-82e9-3785e14919c1",
+      "title": "Red",
+      "value": 1433,
+      "minValue": 600,
+      "maxValue": 2000
+    }
+  ]
 }
