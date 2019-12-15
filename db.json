@@ -41,6 +41,20 @@
       "value": 1433,
       "minValue": 600,
       "maxValue": 2000
+    },
+      {
+      "id": "e6bb62d3-1f01-11ea-82e9-3785e14919c1",
+      "title": "Lisa",
+      "value": 1200,
+      "minValue": 640,
+      "maxValue": 2000
+    },
+    {
+      "id": "e6bb62d4-1f01-11ea-82e9-3785e14919c1",
+      "title": "Red",
+      "value": 1433,
+      "minValue": 600,
+      "maxValue": 2000
     }
   ]
 }
