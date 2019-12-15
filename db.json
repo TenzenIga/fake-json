@@ -3,7 +3,7 @@
   "towers":
 [
  {
-"id": "e6bb3bc0-1f01-11ea-82e9-3785e14919c1"
+"id": "e6bb3bc0-1f01-11ea-82e9-3785e14919c1",
 "title": "One",
 "value": 698,
 "minValue": 0,
@@ -31,7 +31,7 @@
 "maxValue": 3214,
 },
 {
-"id": "e6bb62d3-1f01-11ea-82e9-3785e14919c1"
+"id": "e6bb62d3-1f01-11ea-82e9-3785e14919c1",
 "title": "Lisa",
 "value": 1200,
 "minValue": 640,
@@ -43,6 +43,6 @@
 "value": 1433,
 "minValue": 600,
 "maxValue": 2000
-}
+  }
 ]
 }
