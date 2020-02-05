@@ -1,5 +1,5 @@
 {
- [
+ [{
  "present": [
     {
         "historyNumber": 230,
@@ -244,8 +244,8 @@
         "diagnosis": "cskvyiux",
         "bedNumber": 148
     }
-],
- "quit":
+]},
+ {"quit":
  [
     {
         "historyNumber": 278,
@@ -418,6 +418,6 @@
         "diagnosis": "xvjlbxje",
         "cause": "thex"
     }
-]
+]}
  ]
 }
